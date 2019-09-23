@@ -1,0 +1,25 @@
+
+.App {
+    text-align: center;
+    display: flex !important;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    .row {
+      margin: 20px;
+    }
+}
+
+.title {
+  background-image: url('https://static.gosquared.com/images/nav/logo@2x.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #cecece;
+  height: 80px;
+  margin-bottom: 0px;
+}
+
+.scroll-container {
+  overflow: auto;
+  height: calc(100% - 80px) !important;
+}

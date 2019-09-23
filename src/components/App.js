@@ -81,7 +81,7 @@ componentDidMount() {
             isLoaded: false,
             data: newData
           });
-        }, 500);  
+        }, 200);  
       },
       (error) => {
         this.setState({

@@ -1,8 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This is office dashboard which reads data from node-server and displays on the browser
+The app is created with create-react-app and uses semantic-ui-react
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+
+Follow below steps to add semantic json for the first time.
+###  Automatic (Use default locations and all components) 
+### We detected you are using NPM Nice! Is this your project folder? /Users/hparmar/Documents/learning/react-dashboard/gosquared-dashboard (Use arrow keys) ? 'Yes' (if you are in same path)
+### Where should we put Semantic UI inside your project? (semantic/)  (press enter)
+This will create semantic folder and json file in the repo.
 
 ### `npm start`
 
@@ -37,32 +44,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### Link to gh-pages
+https://hir06.github.io/office-dashboard/index.html
+### server repo
+https://github.com/hir06/dashboard-node

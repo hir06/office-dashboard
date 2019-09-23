@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/hir06/office-dashboard/static/css/main.c3a3956b.chunk.css",
-    "main.js": "/hir06/office-dashboard/static/js/main.636f1174.chunk.js",
-    "main.js.map": "/hir06/office-dashboard/static/js/main.636f1174.chunk.js.map",
-    "runtime-main.js": "/hir06/office-dashboard/static/js/runtime-main.79ead06f.js",
-    "runtime-main.js.map": "/hir06/office-dashboard/static/js/runtime-main.79ead06f.js.map",
-    "static/css/2.0348d12a.chunk.css": "/hir06/office-dashboard/static/css/2.0348d12a.chunk.css",
-    "static/js/2.d234a783.chunk.js": "/hir06/office-dashboard/static/js/2.d234a783.chunk.js",
-    "static/js/2.d234a783.chunk.js.map": "/hir06/office-dashboard/static/js/2.d234a783.chunk.js.map",
-    "index.html": "/hir06/office-dashboard/index.html",
-    "precache-manifest.af0bf6cde7f4002e730d90709cb1e906.js": "/hir06/office-dashboard/precache-manifest.af0bf6cde7f4002e730d90709cb1e906.js",
-    "service-worker.js": "/hir06/office-dashboard/service-worker.js",
-    "static/css/2.0348d12a.chunk.css.map": "/hir06/office-dashboard/static/css/2.0348d12a.chunk.css.map",
-    "static/css/main.c3a3956b.chunk.css.map": "/hir06/office-dashboard/static/css/main.c3a3956b.chunk.css.map",
-    "static/media/beer.jpeg": "/hir06/office-dashboard/static/media/beer.4f34f771.jpeg",
-    "static/media/semantic.min.css": "/hir06/office-dashboard/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/plant.jpg": "/hir06/office-dashboard/static/media/plant.94b405d0.jpg",
-    "static/media/temp_large_image.jpg": "/hir06/office-dashboard/static/media/temp_large_image.03ad77dc.jpg"
+    "main.css": "/office-dashboard/static/css/main.c3a3956b.chunk.css",
+    "main.js": "/office-dashboard/static/js/main.cc5ffc69.chunk.js",
+    "main.js.map": "/office-dashboard/static/js/main.cc5ffc69.chunk.js.map",
+    "runtime-main.js": "/office-dashboard/static/js/runtime-main.99f6b6fc.js",
+    "runtime-main.js.map": "/office-dashboard/static/js/runtime-main.99f6b6fc.js.map",
+    "static/css/2.5d5136e0.chunk.css": "/office-dashboard/static/css/2.5d5136e0.chunk.css",
+    "static/js/2.d234a783.chunk.js": "/office-dashboard/static/js/2.d234a783.chunk.js",
+    "static/js/2.d234a783.chunk.js.map": "/office-dashboard/static/js/2.d234a783.chunk.js.map",
+    "index.html": "/office-dashboard/index.html",
+    "precache-manifest.8381b1f1fb2689dfe8586c41c794d13e.js": "/office-dashboard/precache-manifest.8381b1f1fb2689dfe8586c41c794d13e.js",
+    "service-worker.js": "/office-dashboard/service-worker.js",
+    "static/css/2.5d5136e0.chunk.css.map": "/office-dashboard/static/css/2.5d5136e0.chunk.css.map",
+    "static/css/main.c3a3956b.chunk.css.map": "/office-dashboard/static/css/main.c3a3956b.chunk.css.map",
+    "static/media/beer.jpeg": "/office-dashboard/static/media/beer.4f34f771.jpeg",
+    "static/media/semantic.min.css": "/office-dashboard/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/plant.jpg": "/office-dashboard/static/media/plant.94b405d0.jpg",
+    "static/media/temp_large_image.jpg": "/office-dashboard/static/media/temp_large_image.03ad77dc.jpg"
   }
 }
